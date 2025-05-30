@@ -2,8 +2,6 @@
 
 This repository contains the code and evaluation scripts for our paper **"Dissecting Logical Reasoning in LLMs: A Fine-Grained Evaluation and Supervision Study"**, which performs a fine-grained analysis of reasoning capabilities and introduces supervision strategies to enhance logical performance in large language models.
 
----
-
 ## 🛠️ Installation
 
 ```bash
